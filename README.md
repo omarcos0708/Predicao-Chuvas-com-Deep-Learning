@@ -47,7 +47,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 from keras.models import Sequential
 from keras.layers import Dense
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, accuracy_score, precision_score, recall_score, f1_score, classification_report
+from sklearn.metrics import precision_score, recall_score, f1_score, classification_report
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, accuracy_score,
 ```
 
 ## Uso
